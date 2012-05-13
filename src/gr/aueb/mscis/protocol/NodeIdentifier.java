@@ -1,6 +1,7 @@
 package gr.aueb.mscis.protocol;
 
-//allo sxolio
+//tracker nodes
+//deytero sxolio
 import gr.aueb.mscis.utils.Sha1;
 
 import java.io.Serializable;
